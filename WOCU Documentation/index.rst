@@ -9,40 +9,25 @@
 Bienvenido a la Documentacion de WOCU:
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. _Productos: Productos.html
+.. _Monitoreo: Monitoreo.html
+.. _Servicios: Servicios.html
+.. _Formacion: Formacion.html
 
-Contenidos:
------------
-
+   
 .. |logo1| image:: /image/home_ico_bigdata-220x176.png
 .. |logo2| image:: /image/home_ico_wocu-220x176.png
 .. |logo3| image:: /image/home_ico_services2-220x176.png
 .. |logo4| image:: /image/home_ico_formacion-220x176.png
-
-+---------+---------+---------+---------+
-| |logo1| | |logo2| | |logo3| | |logo4| |
-+---------+---------+---------+---------+
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contenidos:
    
-   Productos
-   Monitoreo
-   Servicios
-   Formacion
-   
-
-   +-----------+------------+-----------+-----------+
-   | Productos | Monitoring | Servicios | Formación |
-   +-----------+------------+-----------+-----------+
-   
-
-
-Indices and tables
-==================
++----------------+----------------+----------------+----------------+
+|     |logo1|    |      |logo2|   |      |logo3|   |      |logo4|   |
++----------------+----------------+----------------+----------------+
+|   `Productos`_ |   `Monitoreo`_ |   `Servicios`_ |   `Formacion`_ |
++----------------+----------------+----------------+----------------+
+	
+Indices y tablas:
+-----------------
 
 * :ref:`genindex`
 * :ref:`modindex`

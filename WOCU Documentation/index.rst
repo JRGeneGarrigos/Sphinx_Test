@@ -25,10 +25,8 @@ Bienvenido a la Documentacion de WOCU:
 +----------------+----------------+----------------+----------------+
 |   `Productos`_ |   `Monitoreo`_ |   `Servicios`_ |   `Formacion`_ |
 +----------------+----------------+----------------+----------------+
-	
-Indices y tablas:
------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _Descripcion: Descripcion.html
+
+Descripcion de www.wocu-monitoring.com: `Descripcion`_
+""""""""""""""""""""""""""""""""""""""""""""""""""""""

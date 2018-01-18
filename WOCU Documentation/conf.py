@@ -178,3 +178,8 @@ texinfo_documents = [
 # In order to write accents and ñ
 source_encoding = 'iso-8859-15'
 
+# Insert the favicon. insert the file favicon.ico in '_static' folder
+html_favicon = './_static/favicon.ico'
+
+# Insert the logo of the company at the main bar.
+html_logo = './_static/logo.png'
